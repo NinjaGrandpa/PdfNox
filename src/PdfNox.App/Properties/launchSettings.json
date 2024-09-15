@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PdfNox.App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PdfNox.App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
