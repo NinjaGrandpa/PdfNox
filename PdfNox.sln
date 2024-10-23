@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1B54545F-6445-481E-888C-D01AE8A03B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfNox.App", "src\PdfNox.App\PdfNox.App.csproj", "{A96A3ABD-E2AA-412F-9B8B-01B19C283C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96A3ABD-E2AA-412F-9B8B-01B19C283C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96A3ABD-E2AA-412F-9B8B-01B19C283C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96A3ABD-E2AA-412F-9B8B-01B19C283C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96A3ABD-E2AA-412F-9B8B-01B19C283C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A96A3ABD-E2AA-412F-9B8B-01B19C283C8E} = {1B54545F-6445-481E-888C-D01AE8A03B48}
+	EndGlobalSection
+EndGlobal
